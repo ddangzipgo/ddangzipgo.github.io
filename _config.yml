@@ -1,18 +1,18 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://joshgerdes.com/jekyll-uno'
-baseurl: '/jekyll-uno'
+title: 부동산투자 땅짚고 헤엄치기
+description: '부동산분석프로그램 땅짚고'
+url: 'https://ddangzipgo.github.io'
+baseurl: '/link'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Josh Gerdes'
+  name: '지중해부자'
   email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  twitter_username: 아직
+  facebook_username: 아직
+  github_username:  지중해부자
+  linkedin_username:  
 
 defaults:
   -
